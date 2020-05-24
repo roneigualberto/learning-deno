@@ -4,9 +4,9 @@ Out first example will print the classic "Hello World" message
 
 ## The full source code:
 
-<code>
+```javascript
     console.log('Hello World');
-</code>
+```
 
 ## To run the example:
     deno run hello-world.ts
