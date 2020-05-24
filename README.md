@@ -7,3 +7,4 @@ Deno by Example is a practical introduction to Deno using sample codes.
 Note: This project is inspired in Go By Example (https://gobyexample.com/)
 
 * [Helloworld](./examples/hello-world/hello-world.md)
+* [Command-line Arguments](./examples/command-line-arguments/command-line-arguments.md)
