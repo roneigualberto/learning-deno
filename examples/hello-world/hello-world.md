@@ -2,7 +2,7 @@
 
 Out first example will print the classic "Hello World" message
 
-##Here's the full source code:
+## Here's the full source code:
 
 <code>
     console.log('Hello World');
